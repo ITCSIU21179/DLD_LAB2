@@ -1,0 +1,139 @@
+<circuit type="simulide_0.4" Speed_sps="1000000" Simu_Step_nS="1000" noLinAcc="5" reactStep="50" Speed_per="100" animate="0">
+
+Unique  Id: TextComponent-47: 
+Circuit Id: TextComponent-21
+<item Font_Size="10" hflip="1" circPos="0,0" valLabelx="0" valLabely="0" labely="-24" labelrot="0" boardRot="-1e+06" Text="Odd Output" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="TextComponent-47" vflip="1" circRot="0" Font="Helvetica [Cronyx]" Margin="5" y="-164" labelx="-16" Fixed_Width="false" itemtype="TextComponent" rotation="0" x="-648" Border="1" id="TextComponent-21" Show_id="false" mainComp="false" Opacity="1"/>
+
+Unique  Id: Buffer-44: 
+Circuit Id: Buffer-44
+<item Input_Imped="1e+14" Out_Imped="40" Out_High_V="5" hflip="1" circPos="0,0" valLabelx="0" valLabely="0" labely="-24" Input_Low_V="2.5" Tristate="false" labelrot="0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" Open_Collector="false" objectName="Buffer-44" vflip="1" Input_High_V="2.5" Out_Low_V="0" circRot="0" y="-148" labelx="-16" itemtype="Buffer" rotation="0" x="-348" Inverted="true" id="Buffer-44" Show_id="false" mainComp="false"/>
+
+Unique  Id: Xor Gate-29: 
+Circuit Id: Xor Gate-4
+<item Input_Imped="1e+14" Out_Imped="40" Out_High_V="5" hflip="1" circPos="0,0" valLabelx="0" valLabely="0" labely="-24" Input_Low_V="2.5" labelrot="0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" Open_Collector="false" objectName="Xor Gate-29" vflip="1" Input_High_V="2.5" Out_Low_V="0" circRot="-5.486129280331905e+303" y="-168" labelx="-16" itemtype="Xor Gate" rotation="0" x="-444" Inverted="false" id="Xor Gate-4" Show_id="false" mainComp="false"/>
+
+Unique  Id: Fixed Voltage-28: 
+Circuit Id: A
+<item Show_Volt="true" hflip="1" circPos="0,0" valLabelx="-16" valLabely="8" labely="-6" labelrot="0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Fixed Voltage-28" vflip="1" circRot="0" y="-184" labelx="-44" Out="false" itemtype="Fixed Voltage" rotation="0" x="-500" Unit=" V" id="A" Show_id="true" mainComp="false" Voltage="5"/>
+
+Unique  Id: Xor Gate-27: 
+Circuit Id: Xor Gate-7
+<item Input_Imped="1e+14" Out_Imped="40" Out_High_V="5" hflip="1" circPos="0,0" valLabelx="0" valLabely="0" labely="-24" Input_Low_V="2.5" labelrot="0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" Open_Collector="false" objectName="Xor Gate-27" vflip="1" Input_High_V="2.5" Out_Low_V="0" circRot="8.900601013234755e-307" y="-148" labelx="-16" itemtype="Xor Gate" rotation="0" x="-388" Inverted="false" id="Xor Gate-7" Show_id="false" mainComp="false"/>
+
+Unique  Id: Fixed Voltage-26: 
+Circuit Id: C
+<item Show_Volt="true" hflip="1" circPos="0,0" valLabelx="-16" valLabely="8" labely="-6" labelrot="0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Fixed Voltage-26" vflip="1" circRot="0" y="-120" labelx="-44" Out="false" itemtype="Fixed Voltage" rotation="0" x="-500" Unit=" V" id="C" Show_id="true" mainComp="false" Voltage="5"/>
+
+Unique  Id: Ground-25: 
+Circuit Id: Ground-12
+<item hflip="1" circPos="0,0" valLabelx="0" valLabely="0" labely="8" labelrot="0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Ground-25" vflip="1" circRot="6.365987436e-314" y="-112" labelx="-16" itemtype="Ground" rotation="0" x="-220" id="Ground-12" Show_id="false" mainComp="false"/>
+
+Unique  Id: Led-24: 
+Circuit Id: Led-10
+<item hflip="1" Color="0" circPos="0,0" valLabelx="0" valLabely="0" labely="-24" MaxCurrent="0.03" labelrot="0" Resistance="0.6" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" Grounded="false" objectName="Led-24" vflip="1" circRot="3.71655704e-316" y="-148" labelx="-16" itemtype="Led" rotation="0" x="-308" Threshold="2.4" id="Led-10" Show_id="false" mainComp="false"/>
+
+Unique  Id: Resistor-23: 
+Circuit Id: Resistor-18
+<item hflip="1" circPos="0,0" valLabelx="-16" Show_res="true" valLabely="6" labely="-20" labelrot="0" Resistance="100" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Resistor-23" vflip="1" circRot="1.6296927677143e-311" y="-148" labelx="-12" itemtype="Resistor" rotation="0" x="-260" Unit=" Ω" id="Resistor-18" Show_id="false" mainComp="false"/>
+
+Unique  Id: Fixed Voltage-22: 
+Circuit Id: B
+<item Show_Volt="true" hflip="1" circPos="0,0" valLabelx="-16" valLabely="8" labely="-6" labelrot="0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Fixed Voltage-22" vflip="1" circRot="0" y="-152" labelx="-44" Out="false" itemtype="Fixed Voltage" rotation="0" x="-500" Unit=" V" id="B" Show_id="true" mainComp="false" Voltage="5"/>
+
+Unique  Id: TextComponent-21: 
+Circuit Id: TextComponent-21
+<item Font_Size="10" hflip="1" circPos="0,0" valLabelx="0" valLabely="0" labely="-24" labelrot="0" boardRot="-1e+06" Text="Even Output" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="TextComponent-21" vflip="1" circRot="0" Font="Helvetica [Cronyx]" Margin="5" y="-324" labelx="-16" Fixed_Width="false" itemtype="TextComponent" rotation="0" x="-652" Border="1" id="TextComponent-21" Show_id="false" mainComp="false" Opacity="1"/>
+
+Unique  Id: Resistor-18: 
+Circuit Id: Resistor-18
+<item hflip="1" circPos="0,0" valLabelx="-16" Show_res="true" valLabely="6" labely="-20" labelrot="0" Resistance="100" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Resistor-18" vflip="1" circRot="1.6296927677143e-311" y="-304" labelx="-12" itemtype="Resistor" rotation="0" x="-268" Unit=" Ω" id="Resistor-18" Show_id="false" mainComp="false"/>
+
+Unique  Id: Ground-12: 
+Circuit Id: Ground-12
+<item hflip="1" circPos="0,0" valLabelx="0" valLabely="0" labely="8" labelrot="0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Ground-12" vflip="1" circRot="6.365987436e-314" y="-268" labelx="-16" itemtype="Ground" rotation="0" x="-228" id="Ground-12" Show_id="false" mainComp="false"/>
+
+Unique  Id: Led-10: 
+Circuit Id: Led-10
+<item hflip="1" Color="0" circPos="0,0" valLabelx="0" valLabely="0" labely="-24" MaxCurrent="0.03" labelrot="0" Resistance="0.6" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" Grounded="false" objectName="Led-10" vflip="1" circRot="3.71655704e-316" y="-304" labelx="-16" itemtype="Led" rotation="0" x="-316" Threshold="2.4" id="Led-10" Show_id="false" mainComp="false"/>
+
+Unique  Id: Xor Gate-7: 
+Circuit Id: Xor Gate-7
+<item Input_Imped="1e+14" Out_Imped="40" Out_High_V="5" hflip="1" circPos="0,0" valLabelx="0" valLabely="0" labely="-24" Input_Low_V="2.5" labelrot="0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" Open_Collector="false" objectName="Xor Gate-7" vflip="1" Input_High_V="2.5" Out_Low_V="0" circRot="8.900601013234755e-307" y="-304" labelx="-16" itemtype="Xor Gate" rotation="0" x="-388" Inverted="false" id="Xor Gate-7" Show_id="false" mainComp="false"/>
+
+Unique  Id: Xor Gate-4: 
+Circuit Id: Xor Gate-4
+<item Input_Imped="1e+14" Out_Imped="40" Out_High_V="5" hflip="1" circPos="0,0" valLabelx="0" valLabely="0" labely="-24" Input_Low_V="2.5" labelrot="0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" Open_Collector="false" objectName="Xor Gate-4" vflip="1" Input_High_V="2.5" Out_Low_V="0" circRot="-5.486129280331905e+303" y="-324" labelx="-16" itemtype="Xor Gate" rotation="0" x="-444" Inverted="false" id="Xor Gate-4" Show_id="false" mainComp="false"/>
+
+Unique  Id: Fixed Voltage-3: 
+Circuit Id: C
+<item Show_Volt="true" hflip="1" circPos="0,0" valLabelx="-16" valLabely="8" labely="-6" labelrot="0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Fixed Voltage-3" vflip="1" circRot="0" y="-276" labelx="-44" Out="true" itemtype="Fixed Voltage" rotation="0" x="-500" Unit=" V" id="C" Show_id="true" mainComp="false" Voltage="5"/>
+
+Unique  Id: Fixed Voltage-2: 
+Circuit Id: B
+<item Show_Volt="true" hflip="1" circPos="0,0" valLabelx="-16" valLabely="8" labely="-6" labelrot="0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Fixed Voltage-2" vflip="1" circRot="0" y="-308" labelx="-44" Out="false" itemtype="Fixed Voltage" rotation="0" x="-500" Unit=" V" id="B" Show_id="true" mainComp="false" Voltage="5"/>
+
+Unique  Id: Fixed Voltage-1: 
+Circuit Id: A
+<item Show_Volt="true" hflip="1" circPos="0,0" valLabelx="-16" valLabely="8" labely="-6" labelrot="0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Fixed Voltage-1" vflip="1" circRot="0" y="-340" labelx="-44" Out="false" itemtype="Fixed Voltage" rotation="0" x="-500" Unit=" V" id="A" Show_id="true" mainComp="false" Voltage="5"/>
+
+Unique  Id: Connector-5: 
+Circuit Id: Connector-5
+<item enodeid="enode-5" hflip="1" circPos="0,0" valLabelx="0" pointList="-484,-340,-484,-328,-460,-328" valLabely="0" labely="-24" labelrot="0" endpinid="Xor Gate-4-in0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Connector-5" vflip="1" circRot="0" y="-340" labelx="-16" itemtype="Connector" rotation="0" x="-484" startpinid="Fixed Voltage-1-outnod" id="Connector-5" Show_id="false" mainComp="false"/>
+
+Unique  Id: Connector-6: 
+Circuit Id: Connector-6
+<item enodeid="enode-6" hflip="1" circPos="0,0" valLabelx="0" pointList="-484,-308,-484,-320,-460,-320" valLabely="0" labely="-24" labelrot="0" endpinid="Xor Gate-4-in1" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Connector-6" vflip="1" circRot="8.57388795e-316" y="-308" labelx="-16" itemtype="Connector" rotation="0" x="-484" startpinid="Fixed Voltage-2-outnod" id="Connector-6" Show_id="false" mainComp="false"/>
+
+Unique  Id: Connector-8: 
+Circuit Id: Connector-8
+<item enodeid="enode-8" hflip="1" circPos="0,0" valLabelx="0" pointList="-428,-324,-428,-308,-404,-308" valLabely="0" labely="-24" labelrot="0" endpinid="Xor Gate-7-in0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Connector-8" vflip="1" circRot="-5.486129297296288e+303" y="-324" labelx="-16" itemtype="Connector" rotation="0" x="-428" startpinid="Xor Gate-4-out" id="Connector-8" Show_id="false" mainComp="false"/>
+
+Unique  Id: Connector-9: 
+Circuit Id: Connector-9
+<item enodeid="enode-9" hflip="1" circPos="0,0" valLabelx="0" pointList="-484,-276,-428,-276,-428,-300,-404,-300" valLabely="0" labely="-24" labelrot="0" endpinid="Xor Gate-7-in1" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Connector-9" vflip="1" circRot="0" y="-276" labelx="-16" itemtype="Connector" rotation="0" x="-484" startpinid="Fixed Voltage-3-outnod" id="Connector-9" Show_id="false" mainComp="false"/>
+
+Unique  Id: Connector-13: 
+Circuit Id: Connector-13
+<item enodeid="enode-13" hflip="1" circPos="0,0" valLabelx="0" pointList="-372,-304,-332,-304" valLabely="0" labely="-24" labelrot="0" endpinid="Led-10-lPin" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Connector-13" vflip="1" circRot="0" y="-304" labelx="-16" itemtype="Connector" rotation="0" x="-372" startpinid="Xor Gate-7-out" id="Connector-13" Show_id="false" mainComp="false"/>
+
+Unique  Id: Connector-19: 
+Circuit Id: Connector-19
+<item enodeid="enode-19" hflip="1" circPos="0,0" valLabelx="0" pointList="-300,-304,-284,-304" valLabely="0" labely="-24" labelrot="0" endpinid="Resistor-18-lPin" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Connector-19" vflip="1" circRot="0" y="-304" labelx="-16" itemtype="Connector" rotation="0" x="-300" startpinid="Led-10-rPin" id="Connector-19" Show_id="false" mainComp="false"/>
+
+Unique  Id: Connector-20: 
+Circuit Id: Connector-20
+<item enodeid="enode-20" hflip="1" circPos="0,0" valLabelx="0" pointList="-252,-304,-228,-304,-228,-284" valLabely="0" labely="-24" labelrot="0" endpinid="Ground-12-Gnd" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Connector-20" vflip="1" circRot="0" y="-304" labelx="-16" itemtype="Connector" rotation="0" x="-252" startpinid="Resistor-18-rPin" id="Connector-20" Show_id="false" mainComp="false"/>
+
+Unique  Id: Connector-30: 
+Circuit Id: Connector-9
+<item enodeid="Circ_eNode-31" hflip="1" circPos="0,0" valLabelx="0" pointList="-484,-120,-428,-120,-428,-144,-404,-144" valLabely="0" labely="-24" labelrot="0" endpinid="Xor Gate-27-in1" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Connector-30" vflip="1" circRot="0" y="-120" labelx="-16" itemtype="Connector" rotation="0" x="-484" startpinid="Fixed Voltage-26-outnod" id="Connector-9" Show_id="false" mainComp="false"/>
+
+Unique  Id: Connector-34: 
+Circuit Id: Connector-19
+<item enodeid="Circ_eNode-35" hflip="1" circPos="0,0" valLabelx="0" pointList="-292,-148,-276,-148" valLabely="0" labely="-24" labelrot="0" endpinid="Resistor-23-lPin" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Connector-34" vflip="1" circRot="0" y="-148" labelx="-16" itemtype="Connector" rotation="0" x="-292" startpinid="Led-24-rPin" id="Connector-19" Show_id="false" mainComp="false"/>
+
+Unique  Id: Connector-36: 
+Circuit Id: Connector-5
+<item enodeid="Circ_eNode-37" hflip="1" circPos="0,0" valLabelx="0" pointList="-484,-184,-484,-172,-460,-172" valLabely="0" labely="-24" labelrot="0" endpinid="Xor Gate-29-in0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Connector-36" vflip="1" circRot="0" y="-184" labelx="-16" itemtype="Connector" rotation="0" x="-484" startpinid="Fixed Voltage-28-outnod" id="Connector-5" Show_id="false" mainComp="false"/>
+
+Unique  Id: Connector-38: 
+Circuit Id: Connector-6
+<item enodeid="Circ_eNode-39" hflip="1" circPos="0,0" valLabelx="0" pointList="-484,-152,-484,-164,-460,-164" valLabely="0" labely="-24" labelrot="0" endpinid="Xor Gate-29-in1" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Connector-38" vflip="1" circRot="8.57388795e-316" y="-152" labelx="-16" itemtype="Connector" rotation="0" x="-484" startpinid="Fixed Voltage-22-outnod" id="Connector-6" Show_id="false" mainComp="false"/>
+
+Unique  Id: Connector-40: 
+Circuit Id: Connector-20
+<item enodeid="Circ_eNode-41" hflip="1" circPos="0,0" valLabelx="0" pointList="-244,-148,-220,-148,-220,-128" valLabely="0" labely="-24" labelrot="0" endpinid="Ground-25-Gnd" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Connector-40" vflip="1" circRot="0" y="-148" labelx="-16" itemtype="Connector" rotation="0" x="-244" startpinid="Resistor-23-rPin" id="Connector-20" Show_id="false" mainComp="false"/>
+
+Unique  Id: Connector-42: 
+Circuit Id: Connector-8
+<item enodeid="Circ_eNode-43" hflip="1" circPos="0,0" valLabelx="0" pointList="-428,-168,-428,-152,-404,-152" valLabely="0" labely="-24" labelrot="0" endpinid="Xor Gate-27-in0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Connector-42" vflip="1" circRot="-5.486129297296288e+303" y="-168" labelx="-16" itemtype="Connector" rotation="0" x="-428" startpinid="Xor Gate-29-out" id="Connector-8" Show_id="false" mainComp="false"/>
+
+Unique  Id: Connector-45: 
+Circuit Id: Connector-45
+<item enodeid="enode-45" hflip="1" circPos="0,0" valLabelx="0" pointList="-372,-148,-364,-148" valLabely="0" labely="-24" labelrot="0" endpinid="Buffer-44-in0" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Connector-45" vflip="1" circRot="0" y="-148" labelx="-16" itemtype="Connector" rotation="0" x="-372" startpinid="Xor Gate-27-out" id="Connector-45" Show_id="false" mainComp="false"/>
+
+Unique  Id: Connector-46: 
+Circuit Id: Connector-46
+<item enodeid="enode-46" hflip="1" circPos="0,0" valLabelx="0" pointList="-332,-148,-324,-148" valLabely="0" labely="-24" labelrot="0" endpinid="Led-24-lPin" boardRot="-1e+06" valLabRot="0" boardPos="-1e+06,-1e+06" objectName="Connector-46" vflip="1" circRot="nan" y="-148" labelx="-16" itemtype="Connector" rotation="0" x="-332" startpinid="Buffer-44-out" id="Connector-46" Show_id="false" mainComp="false"/>
+ 
+</circuit>
